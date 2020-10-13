@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "878943763377",
+    "firebase_url": "https://fir-tutrial2020.firebaseio.com",
+    "project_id": "fir-tutrial2020",
+    "storage_bucket": "fir-tutrial2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878943763377:android:8d55fdae2e34e30477db90",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878943763377-mr4bjo64ejhncq7jjh7ude8ft3mrjivp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWiqLejiBUwCkzgneu95w333UEV9LSpuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878943763377-mr4bjo64ejhncq7jjh7ude8ft3mrjivp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
